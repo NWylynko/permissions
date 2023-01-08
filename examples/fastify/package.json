@@ -1,0 +1,12 @@
+{
+  "name": "fastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.10.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}

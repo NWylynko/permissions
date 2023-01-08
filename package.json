@@ -1,0 +1,16 @@
+{
+  "name": "permissions",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "git@github.com:NWylynko/permissions.git",
+  "author": "Nick Wylynko <nick@wylynko.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "build:watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  },
+  "dependencies": {}
+}
